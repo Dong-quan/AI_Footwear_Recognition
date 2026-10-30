@@ -155,7 +155,10 @@ streamlit run Nhom_3.py
 
 ### Expected Output
 
-![Demo](images/demo.png)
+![Dep](Images/dep.png)
+![Giay](Images/giay.png)
+![Ung](Images/ung.png)
+![Giaycaogot](Images/giaycaogot.png)
 
 ---
 
