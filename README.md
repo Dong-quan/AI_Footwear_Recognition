@@ -1,6 +1,5 @@
 # AI_Footwear_Recognition with CNN
 
-**A Streamlit web app that classifies footwear images into four categories: slippers/sandals, shoes, high heels, and boots.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)](https://www.tensorflow.org/)
